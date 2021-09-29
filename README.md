@@ -1,7 +1,7 @@
 # Chrome-Firefox Password Decrypt
 This program finds, decrypts and returns two .txt files containing saved passwords.
 
-I'm using modified versions (by me) of [firefox_decrypt](https://github.com/unode/firefox_decrypt "firefox_decrypt") and [decrypt-chrome-passwords](https://github.com/alessio-ds/decrypt-chrome-passwords "decrypt-chrome-passwords")
+I'm using modified versions (by me) of [firefox_decrypt](https://github.com/unode/firefox_decrypt "firefox_decrypt") and [decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords "decrypt-chrome-passwords") (I'm one of the contributors)
 
 ## Requirements
 If you want to get **both** Chrome and Firefox passwords, please use **Python 3.9**.
